@@ -1,0 +1,62 @@
+    [
+        {
+        "id": 1,
+        "name": "Premium Leather Handbag",
+        "price": 10.99,
+        "image": "https://source.unsplash.com/featured/?leather+handbag"
+        },
+        {
+        "id": 2,
+        "name": "Wireless Bluetooth Headphones",
+        "price": 19.99,
+        "image": "https://source.unsplash.com/featured/?bluetooth+headphones"
+        },
+        {
+        "id": 3,
+        "name": "Elegant Wristwatch",
+        "price": 14.99,
+        "image": "https://source.unsplash.com/featured/?wristwatch"
+        },
+        {
+        "id": 4,
+        "name": "Cozy Knit Sweater",
+        "price": 8.99,
+        "image": "https://source.unsplash.com/featured/?sweater"
+        },
+        {
+        "id": 5,
+        "name": "Classic Aviator Sunglasses",
+        "price": 24.99,
+        "image": "https://source.unsplash.com/featured/?aviator+sunglasses"
+        },
+        {
+        "id": 6,
+        "name": "Stylish Canvas Sneakers",
+        "price": 12.99,
+        "image": "https://source.unsplash.com/featured/?canvas+sneakers"
+        },
+        {
+        "id": 7,
+        "name": "Luxury Fountain Pen Set",
+        "price": 16.99,
+        "image": "https://source.unsplash.com/featured/?fountain+pen"
+        },
+        {
+        "id": 8,
+        "name": "Deluxe Makeup Brush Kit",
+        "price": 9.99,
+        "image": "https://source.unsplash.com/featured/?makeup+brushes"
+        },
+        {
+        "id": 9,
+        "name": "Designer Leather Wallet",
+        "price": 7.99,
+        "image": "https://source.unsplash.com/featured/?leather+wallet"
+        },
+        {
+        "id": 10,
+        "name": "Gourmet Chocolate Gift Box",
+        "price": 29.99,
+        "image": "https://source.unsplash.com/featured/?chocolate"
+        }
+    ]

@@ -59,3 +59,70 @@
     color: black;
     transition: all 0.2s;
 }
+
+.App .ProductsList-container{
+    margin: 0 auto;
+    width: 50%;
+    border: 1px solid red;
+}
+.App .ProductsList-container div{
+    border: 1px solid rgb(30, 255, 0);
+
+}
+.App .ProductsList-container div .Item-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.App .ProductsList-container div .Item-image{
+    /* width: 100%; */
+    height: 200px;
+    object-fit: cover;
+}
+.App .ProductsList-container div .Item-addToCart{
+    margin: 0  auto;
+    display:flex;
+    justify-content: center;
+    
+}
+.App .ProductsList-container div .Item-addToCart .AddToCartBtn{
+    width: 100%;
+    background-color: rgb(47, 93, 179);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.App .ProductsList-container div .Item-addToCart .MoreCartOptions{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.App .ProductsList-container div .Item-addToCart .MoreCartOptions .MoreCartOptions-changeInCart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.App .ProductsList-container div .Item-addToCart .MoreCartOptions .MoreCartOptions-changeInCart button{
+    background-color: rgb(50, 95, 190);
+    border: none;
+    border-radius: 5px;
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.App .ProductsList-container div .Item-addToCart .MoreCartOptions .MoreCartOptions-removeAll{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    padding: 10px 1.2rem;
+}
